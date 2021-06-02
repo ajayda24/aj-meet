@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aj-meet/static/css/main.55b9d234.chunk.css",
+    "main.css": "/aj-meet/static/css/main.f56602ad.chunk.css",
     "main.js": "/aj-meet/static/js/main.3949571f.chunk.js",
     "main.js.map": "/aj-meet/static/js/main.3949571f.chunk.js.map",
     "runtime-main.js": "/aj-meet/static/js/runtime-main.82f3a68e.js",
@@ -8,13 +8,13 @@
     "static/js/2.f792ad33.chunk.js": "/aj-meet/static/js/2.f792ad33.chunk.js",
     "static/js/2.f792ad33.chunk.js.map": "/aj-meet/static/js/2.f792ad33.chunk.js.map",
     "index.html": "/aj-meet/index.html",
-    "static/css/main.55b9d234.chunk.css.map": "/aj-meet/static/css/main.55b9d234.chunk.css.map",
+    "static/css/main.f56602ad.chunk.css.map": "/aj-meet/static/css/main.f56602ad.chunk.css.map",
     "static/js/2.f792ad33.chunk.js.LICENSE.txt": "/aj-meet/static/js/2.f792ad33.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.82f3a68e.js",
     "static/js/2.f792ad33.chunk.js",
-    "static/css/main.55b9d234.chunk.css",
+    "static/css/main.f56602ad.chunk.css",
     "static/js/main.3949571f.chunk.js"
   ]
 }
