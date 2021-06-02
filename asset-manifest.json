@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/aj-meet/static/css/main.d3d367f8.chunk.css",
-    "main.js": "/aj-meet/static/js/main.c05c980a.chunk.js",
-    "main.js.map": "/aj-meet/static/js/main.c05c980a.chunk.js.map",
+    "main.css": "/aj-meet/static/css/main.35698b0a.chunk.css",
+    "main.js": "/aj-meet/static/js/main.a299ebbd.chunk.js",
+    "main.js.map": "/aj-meet/static/js/main.a299ebbd.chunk.js.map",
     "runtime-main.js": "/aj-meet/static/js/runtime-main.82f3a68e.js",
     "runtime-main.js.map": "/aj-meet/static/js/runtime-main.82f3a68e.js.map",
     "static/js/2.f792ad33.chunk.js": "/aj-meet/static/js/2.f792ad33.chunk.js",
     "static/js/2.f792ad33.chunk.js.map": "/aj-meet/static/js/2.f792ad33.chunk.js.map",
     "index.html": "/aj-meet/index.html",
-    "static/css/main.d3d367f8.chunk.css.map": "/aj-meet/static/css/main.d3d367f8.chunk.css.map",
+    "static/css/main.35698b0a.chunk.css.map": "/aj-meet/static/css/main.35698b0a.chunk.css.map",
     "static/js/2.f792ad33.chunk.js.LICENSE.txt": "/aj-meet/static/js/2.f792ad33.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.82f3a68e.js",
     "static/js/2.f792ad33.chunk.js",
-    "static/css/main.d3d367f8.chunk.css",
-    "static/js/main.c05c980a.chunk.js"
+    "static/css/main.35698b0a.chunk.css",
+    "static/js/main.a299ebbd.chunk.js"
   ]
 }
